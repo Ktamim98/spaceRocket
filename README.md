@@ -1,6 +1,8 @@
 # SpriteKit Game - Space Invaders
 This is a simple game implemented using SpriteKit framework in Swift. The game is inspired by the classic arcade game "Space Invaders" and involves shooting down enemies while avoiding collisions.
 
+https://github.com/Ktamim98/spaceRocket/assets/124142522/db0232c3-a269-4b70-ace6-beb33c4fc2e5
+
 ## Overview
 The game features a player-controlled spaceship that can move vertically on the screen. The objective is to shoot down enemies that appear from the right side of the screen and earn points. The game ends if the player's spaceship collides with an enemy.
 The project is implemented using the SpriteKit framework, which provides an easy-to-use and powerful set of tools for creating 2D games. The game scene is rendered using SKScene, and physics simulation is used to handle collisions between objects. The project also utilizes SKPhysicsContactDelegate to detect and respond to contact events.
@@ -22,4 +24,9 @@ The project is implemented using the SpriteKit framework, which provides an easy
 - Shoot projectiles by tapping anywhere on the screen to destroy the enemies.
 - Earn points for each enemy destroyed.
 - The game ends if the player's spaceship collides with an enemy.
+
+## Credit
+This project was made as a part of Hacking with Swift course by Paul Hudson.
+
+
 
